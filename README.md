@@ -57,4 +57,4 @@ Should you pass and move onto team interviews with our engineering team, there w
 ## Setup
 
 1. Ensure you have git installed on your computer
-2. Please make sure that your solution of adding login flow is done under integration/login.specs.js file path
+2. Please make sure that your solution of adding login flow is submitted/done under cypress/integration/login.specs.js file path
