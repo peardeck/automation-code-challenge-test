@@ -47,4 +47,5 @@ Should you pass and move onto team interviews with our engineering team, there w
 
 ## Setup
 
-Ensure you have git installed on your computer
+1. Ensure you have git installed on your computer
+2. Please make sure that your solution of adding login flow is done under integration/login.specs.js file path
