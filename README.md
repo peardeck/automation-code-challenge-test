@@ -11,9 +11,9 @@ yarn install
 ```
 ## Automation take home assignment 
 
-Pre requisite - Please use these credentials to login 
-gmail username - pdtestdemo123@gmail.com
-gmail password - howdy235
+Pre requisite - Please use these credentials to login and to automate login flow 
+username - pdtestdemo123@gmail.com
+password - pddemo1234
 
 Read the steps below in full before planning and beginning your work
 You are welcome to reach out to ask any questions, gain clarification, or gather requirements at any time.
@@ -22,11 +22,12 @@ You are welcome to reach out to ask any questions, gain clarification, or gather
 Please follow the steps and create one test to check login functionality and ensure at the end,
 you verify a valid element on homepage https://app.peardeck.com/home/?action=signin&idProvider=google#
 
-Sample video covering login flow manually done
+## Sample video covering login flow manually done
 
-https://user-images.githubusercontent.com/87498845/141851511-7d51aac7-8f9d-4b0b-9292-19f65f73ad09.mov
+https://user-images.githubusercontent.com/87498845/141855222-914c287a-7d49-44af-bada-15a23100f527.mov
 
-   
+
+
 ## Steps
 
 1. Visit this peardeck url - https://www.peardeck.com/
