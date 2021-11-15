@@ -19,6 +19,11 @@ You are welcome to reach out to ask any questions, gain clarification, or gather
 ## Setup
 Please follow the steps and create one test to check login functionality and ensure at the end,
 you verify a valid element on homepage https://app.peardeck.com/home/?action=signin&idProvider=google#
+
+Sample video covering login flow manually done
+
+https://user-images.githubusercontent.com/87498845/141851511-7d51aac7-8f9d-4b0b-9292-19f65f73ad09.mov
+
    
 ## Steps
 
