@@ -11,7 +11,8 @@ yarn install
 ```
 ## Automation take home assignment 
 
-Pre requisite - Please use these credentials to login and to automate login flow 
+Pre requisite - 
+Please use these credentials to login and to automate login flow 
 username - pdtestdemo123@gmail.com
 password - pddemo1234
 
