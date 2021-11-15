@@ -13,8 +13,8 @@ yarn install
 
 Pre requisite - 
 Please use these credentials to login and to automate login flow 
-username - pdtestdemo123@gmail.com
-password - pddemo1234
+1. username - pdtestdemo123@gmail.com
+2. password - pddemo1234
 
 Read the steps below in full before planning and beginning your work
 You are welcome to reach out to ask any questions, gain clarification, or gather requirements at any time.
