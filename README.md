@@ -11,7 +11,9 @@ yarn install
 ```
 ## Automation take home assignment 
 
-Pre requisite - You can either use your personal gmail account or if you don't have one go ahead and create a temporary gmail account for this exercise 
+Pre requisite - Please use these credentials to login 
+gmail username - pdtestdemo123@gmail.com
+gmail password - howdy235
 
 Read the steps below in full before planning and beginning your work
 You are welcome to reach out to ask any questions, gain clarification, or gather requirements at any time.
