@@ -46,7 +46,7 @@ You will have one week from the time you receive the challenge to complete and r
 
 ## Delivery
 
-1. Please return your solution as a zipfile of your git repo according to the instructions of the recruiter
+Please return your solution as a zipfile of your git repo according to the instructions of the recruiter
 
 
 ## Review
