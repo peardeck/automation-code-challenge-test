@@ -4,7 +4,7 @@ describe("Automation Exercise - Login flow ", () => {
   it("should successfully login as a google user", () => {
     
 
-    // To-do:  Automation take home assignment code exercise, please write a test case for login flow. Follow below steps.
+    // To-do:  Automation take home assignment code exercise, please write test code for login flow and follow below steps.
   
     // 1) Visit this url peardeck - https://www.peardeck.com/
     // 2) Click on Teacher login button on the top right 
