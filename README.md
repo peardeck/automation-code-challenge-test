@@ -28,7 +28,6 @@ you verify a valid element on homepage https://app.peardeck.com/home/?action=sig
 https://user-images.githubusercontent.com/87498845/141855222-914c287a-7d49-44af-bada-15a23100f527.mov
 
 
-
 ## Steps
 
 1. Visit this peardeck url - https://www.peardeck.com/
@@ -47,7 +46,8 @@ You will have one week from the time you receive the challenge to complete and r
 
 ## Delivery
 
-Please return your solution as a zipfile or tarball of your git repo according to the instructions of the recruiter
+1. Please return your solution as a zipfile of your git repo according to the instructions of the recruiter
+
 
 ## Review
 
