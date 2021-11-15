@@ -3,12 +3,8 @@
 describe("Automation Exercise - Login flow ", () => {
   it("should successfully login as a google user", () => {
     
-    // Pre requisite - You can either use your personal gmail account or if you don't have one, create a temporary gmail account 
-    // just for this exercise 
-    
 
-
-    // To-do automation code exercise 
+    // To-do:  Automation take home assignment code exercise, please write a test case for login flow. Follow below steps.
   
     // 1) Visit this url peardeck - https://www.peardeck.com/
     // 2) Click on Teacher login button on the top right 
