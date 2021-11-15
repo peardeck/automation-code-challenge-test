@@ -1,0 +1,12 @@
+{
+    "name": "automation_interview",
+    "version": "1.0.0",
+    "description": "automation code challenge using cypress",
+    "author": "Peardeck",
+    "scripts": {
+      "test": "cypress run --browser chrome"
+    },
+    "dependencies": {
+    "cypress": "8.6.0"
+    }
+  }
