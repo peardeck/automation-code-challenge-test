@@ -16,10 +16,11 @@ Pre requisite - You can either use your personal gmail account or if you don't h
 Read the steps below in full before planning and beginning your work
 You are welcome to reach out to ask any questions, gain clarification, or gather requirements at any time.
 
-Please follow the steps and create one test to check login functionalty and ensure at the end of the functionality 
+## Setup
+Please follow the steps and create one test to check login functionality and ensure at the end,
 you verify a valid element on homepage https://app.peardeck.com/home/?action=signin&idProvider=google#
    
-# Steps
+## Steps
 
 1. Visit this peardeck url - https://www.peardeck.com/
 2. Click on Teacher login button on the top right 
@@ -34,3 +35,16 @@ you verify a valid element on homepage https://app.peardeck.com/home/?action=sig
 ## Timing
 
 You will have one week from the time you receive the challenge to complete and return your work.
+
+## Delivery
+
+Please return your solution as a zipfile or tarball of your git repo according to the instructions of the recruiter
+
+## Review
+
+After you deliver your work, one of our engineers will review your work
+Should you pass and move onto team interviews with our engineering team, there will likely be questions or discussions relating to this work, so please be prepared to help explain/teach your work!
+
+## Setup
+
+Ensure you have git installed on your computer
