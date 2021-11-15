@@ -30,7 +30,7 @@ https://user-images.githubusercontent.com/87498845/141855222-914c287a-7d49-44af-
 
 ## Steps
 
-1. Visit this peardeck url - https://www.peardeck.com/
+1. Visit peardeck url - https://www.peardeck.com/
 2. Click on Teacher login button on the top right 
 3. Click on Login with Google button
 4. Enter your gmail username 
@@ -38,7 +38,7 @@ https://user-images.githubusercontent.com/87498845/141855222-914c287a-7d49-44af-
 6. Enter your gmail password
 7. Click on Next Button again
 8. You should land on the homepage - https://app.peardeck.com/home/?action=signin&idProvider=google#
-9. Check any element on the homepage to complete the test
+9. Verify any element on the homepage to complete the test
 
 ## Timing
 
