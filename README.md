@@ -23,6 +23,8 @@ You are welcome to reach out to ask any questions, gain clarification, or gather
 Please follow the steps and create one test to check login functionality and ensure at the end,
 you verify a valid element on homepage https://app.peardeck.com/home/?action=signin&idProvider=google#
 
+**Important** - The Login test should be completed in cypress but feel free to use other frameworks to help you formulate the solution and complete this assignment.
+
 ## Sample video covering login flow manually done
 
 https://user-images.githubusercontent.com/87498845/141855222-914c287a-7d49-44af-bada-15a23100f527.mov
