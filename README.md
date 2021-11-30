@@ -10,8 +10,7 @@ git clone  https://github.com/peardeck/automation-code-challenge-test.git
 yarn install
 ```
 ## Automation take home assignment 
-
-Pre requisite - 
+ 
 Please use these credentials to login and to automate login flow 
 1. username - pdtestdemo123@gmail.com
 2. password - pddemo1234
