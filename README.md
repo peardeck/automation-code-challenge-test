@@ -15,7 +15,7 @@ Please use these credentials to login and to automate login flow
 1. username - e2eautomation@dev-edu-peardeck.com
 2. password - pddemo1234
 
-Incase the credentials above doesnt work, please either create a gmail account for testing purposes or feel free to use your personal gmail account.
+**Note**: Incase the credentials above doesnt work, please either create a gmail account for testing purposes or feel free to use your personal gmail account.
 
 Read the steps below in full before planning and beginning your work
 You are welcome to reach out to ask any questions, gain clarification, or gather requirements at any time.
